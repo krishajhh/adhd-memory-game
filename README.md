@@ -4,9 +4,9 @@ The Smiski Memory Match game is a cognitive intervention tool for individuals wi
 
 # Technologies Used 
 <br/>
-+ **React**: javascript library for building user interface, manages game's components
-+ **HTML/CSS**: HTMl provides structure for web page of the game, CSS is used for styling elements such as colors, fonts, and animations
-+ **Javascript**: Implements game logic, interactions, animations
+* **React**: javascript library for building user interface, manages game's components
+* **HTML/CSS**: HTMl provides structure for web page of the game, CSS is used for styling elements such as colors, fonts, and animations
+* **Javascript**: Implements game logic, interactions, animations
 
 # How to Use
 <br/>
