@@ -1,5 +1,5 @@
 # Matchski
-Matchski, a Smiski memory match game is a cognitive intervention tool for individuals with ADHD, designed to enhance memory, attention, and cognitive flexibility. It's inspired by research showing the benefits of interactive games for cognitive functions, especially in ADHD. The game's goal is to allow individuals to match the correct smiski character through memory as they progress through the game.
+Matchski, a Smiski memory match game is a cognitive intervention tool for individuals with ADHD, designed to enhance memory, attention, and cognitive flexibility. Backed by research showing the benefits of interactive games for improved cognitive function, the game allows for individuals to match the correct smikski character based on memory as they progress through the game. 
 
 # Technologies Used 
 <br/>
